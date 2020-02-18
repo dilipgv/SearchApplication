@@ -83,8 +83,8 @@ All the Sample payload are in the post collection  - */postmanCollection*
 
 ### Installation
 
-1. Clone the github repository ```git clone <repo>```
-2. Change directory to the folder ```cd <dir>```
+1. Clone the github repository ```git clone https://github.com/dilipgv/SearchApplication.git```
+2. Change directory to the folder ```cd SearchApplication```
 3. Run the command ```mvn clean install```
 4. Start the application ```java -jar target/search-0.0.1-SNAPSHOT.jar```
 
